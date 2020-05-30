@@ -1,7 +1,7 @@
 <?
 AddEventHandler("sale", "OnOrderSave", "SaleComponentOrderCompleteHandler");
 
-
+//2222222222222
 function requestToCRM($data, $method)
 {
     $queryUrl = 'https://dagroup.bitrix24.ua/rest/237/24qx13aldxd0on80/' . $method . ".json";
